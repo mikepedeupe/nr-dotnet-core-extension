@@ -1,3 +1,0 @@
-# newrelic-dotnetcore-extension-buildpack
----
-
